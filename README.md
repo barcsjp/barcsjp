@@ -6,7 +6,7 @@
 
 
 
-<p>Desde sempre me interessei por computadores, tanto em softwares quanto na parte do hardware, mas sempre dei mais foco para a parte palpável. Apesar disso, estudei administração durante meu ensino médio, 
+<p>Desde sempre me interessei por computadores, tanto em softwares quanto na parte do hardware, mas sempre dei mais foco para a parte física da coisa. Apesar disso, estudei administração durante meu ensino médio, 
 mas decidi por migrar de área, já que a experiência que tive nesse período me deu o norte para fazer as melhores escolhas para mim.</p>
 <p>Por isso, ainda sou novato em coding e tenho buscado o aprendizado no back-end com Python, Java e C#.</p>
 <p>Em conjunto com alguns amigos, já fiz projeto de site baseado apenas em HTML e CSS para uma ONG.</p>
