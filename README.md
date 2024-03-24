@@ -15,7 +15,7 @@ mas decidi por migrar de área, já que a experiência que tive nesse período m
 
 ---
 
-#### Linguagens em estudo/dominadas:
+#### Linguagens em estudo/:
 
 <div style="display: inline-block">
 
