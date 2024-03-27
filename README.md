@@ -31,6 +31,6 @@ mas decidi por migrar de área, já que a experiência que tive nesse período m
 <div style="display: inline-block">
 <img align="center" alt="csharp" src="https://img.shields.io/badge/csharp-00008B?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img align="center" alt="java" src="https://img.shields.io/badge/java-FF4500?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
