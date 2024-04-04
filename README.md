@@ -1,4 +1,4 @@
-## BEM-VINDO AO MEU GIT
+## BEM-VINDO
 
 #### Me chamo Arthur Pessoa e estudo back-end.
 
