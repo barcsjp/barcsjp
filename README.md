@@ -15,7 +15,7 @@ mas decidi por migrar de área, já que a experiência que tive nesse período m
 
 ---
 
-#### Linguagens em estudo:
+#### Linguagens que tenho familiaridade:
 
 <div style="display: inline-block">
 
