@@ -1,27 +1,19 @@
-<section>
-  <h2>Sobre mim</h2>
+
+  ## Sobre mim
   <p>
-    Desde cedo tive interesse por computadores — tanto na parte de software quanto de hardware —
-    com um foco maior, na época, no funcionamento físico das máquinas. Durante o ensino médio,
-    segui o caminho da <strong>Administração</strong>, o que me proporcionou uma base sólida em
-    organização, análise e tomada de decisão.
+    Sempre fui curioso sobre como os computadores funcionam tanto na parte física quanto na parte de software. 
+    No começo, meu interesse era mais voltado ao hardware, mas com o tempo comecei a explorar o mundo da programação. 
   </p>
   <p>
-    No entanto, essa experiência também me ajudou a identificar minha verdadeira profissão:
-    a <strong>tecnologia</strong>. Decidi então migrar de área e me aprofundar em
-    <strong>Sistemas de Informação</strong>, buscando conhecimento contínuo em
-    <strong>programação back-end</strong>, especialmente com <strong>Python</strong> e
-    <strong>Java</strong>.
+    Aprendi primeiro Python e, logo depois, mergulhei no Java. Assim, percebi que queria seguir o caminho do desenvolvimento de software.
   </p>
   <p>
-    Hoje, estudo tecnologias ligadas a <strong>análise de dados</strong>,
-    <strong>bancos de dados (SQL)</strong> e <strong>desenvolvimento de software</strong>,
-    com foco em aplicar esses conhecimentos em projetos que gerem valor real.
+    Hoje trabalho como estagiário de Remuneração. Mesmo não sendo uma área diretamente ligada ao desenvolvimento, 
+    tenho conseguido aplicar SQL e conceitos de metodologias ágeis no dia a dia, bem como a performance na atualização de dados dos dashboards da equipe, otimizando os códigos DAX no Power BI.
   </p>
   <p>
-    Sou curioso, analítico e gosto de aprender na prática.
+    Sou uma pessoa prática e estou sempre buscando aprender coisas novas, especialmente na área de tecnologia.
   </p>
-</section>
 
 
 ---
@@ -33,6 +25,5 @@
 <img align="center" alt="java" src="https://img.shields.io/badge/java-FF4500?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql">
-
 
 </div>
